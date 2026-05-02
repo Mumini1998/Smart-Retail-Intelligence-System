@@ -1,0 +1,49 @@
+Category,Product,Stocked,Current Stock,Re_order %,Restock_Alert
+Beverages,Coke,1200,163,14,Stock Level OK
+Beverages,Pepsi,1200,237,20,Stock Level OK
+Beverages,Fanta,1200,314,26,Stock Level OK
+Beverages,Water,1200,357,30,Stock Level OK
+Food items,Rice,2000,66,3,Restock Alert
+Food items,Beans,2000,816,41,Stock Level OK
+Food items,Bread,2000,196,10,Stock Level OK
+Food items,Spaghetti,1200,131,11,Stock Level OK
+Snacks,Biscuits,1000,121,12,Stock Level OK
+Snacks,Chocolate,1000,0,0,Restock Alert
+Snacks,Chips,1000,31,3,Restock Alert
+Household,Detergent,1500,376,25,Stock Level OK
+Household,Soap,2000,210,11,Stock Level OK
+Household,Toothpaste,1700,26,2,Restock Alert
+Household,Shampoo,1000,63,6,Stock Level OK
+Clothing,Cap,300,133,44,Stock Level OK
+Clothing,Jeans,300,62,21,Stock Level OK
+Clothing,Shoes,300,110,37,Stock Level OK
+Clothing,T-shirt,300,173,58,Overstock Alert
+Clothing,Wristwatch,200,20,10,Stock Level OK
+Electronics,Earphones,300,147,49,Stock Level OK
+Electronics,Extension Box,200,27,14,Stock Level OK
+Electronics,LED Bulb,300,11,4,Restock Alert
+Electronics,Power Bank,200,1,1,Restock Alert
+Diary,Milk,1000,311,31,Stock Level OK
+Food items,Garri,310,143,46,Stock Level OK
+Food items,Palm oil,310,101,33,Stock Level OK
+Diary,Butter,2000,1325,66,Overstock Alert
+Sports,Skipping Rope,300,150,50,Stock Level OK
+Food items,Yam flour,300,60,20,Stock Level OK
+Household,Broom,300,110,37,Stock Level OK
+Household,Bucket,300,110,37,Stock Level OK
+Food items,Eggs,1000,372,37,Stock Level OK
+Household,Toilet Paper,310,108,35,Stock Level OK
+Household,Cooking Gas,310,161,52,Overstock Alert
+Pharmaceuticals,Antibiotics,200,38,19,Stock Level OK
+Pharmaceuticals,Cough Syrup,200,41,21,Stock Level OK
+Pharmaceuticals,Pain Relief Balm,200,8,4,Restock Alert
+Pharmaceuticals,Paracetamol,200,6,3,Restock Alert
+Pharmaceuticals,Vitamin C,200,53,27,Stock Level OK
+Sports,Dumbbells,200,34,17,Stock Level OK
+Sports,Football,310,125,40,Stock Level OK
+Sports,Jersey,220,2,1,Restock Alert
+Sports,Running Shoes,200,-1,-1,Restock Alert
+Food items,Coffee,1000,213,21,Stock Level OK
+Electronics,Phone Charger,500,343,69,Overstock Alert
+Food items,Sugar,1000,381,38,Stock Level OK
+Food items,Tea,1000,399,40,Stock Level OK
